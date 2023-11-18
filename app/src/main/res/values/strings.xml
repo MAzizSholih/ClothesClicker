@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clothes</string>
+    <string name="pakaian_terjual">Terjual</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="share">Share</string>
+    <string name="share_text">Saya telah mengklik %1$d pakaian dengan total $%2$d #AndroidClothesClicker</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+</resources>
